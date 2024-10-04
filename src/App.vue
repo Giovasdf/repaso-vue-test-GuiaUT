@@ -12,7 +12,7 @@ import Todo from './components/TodoApp.vue'
 <style scoped>
 .container {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   align-items: center;
   height: 100vh;
   text-align: center;
